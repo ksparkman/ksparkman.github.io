@@ -61,6 +61,8 @@ width: 88%;
 height: 400px; 
 margin-bottom: 10px;
 }
+
+
 #footer { 
 position: relative;
 height: 50px;
@@ -71,6 +73,10 @@ font-size: 14px; 
 text-align: center;
 color: #ffffff;
 }
+
+
+
+
 #footer p { 
 position: relative; 
 padding-top: 15px;
