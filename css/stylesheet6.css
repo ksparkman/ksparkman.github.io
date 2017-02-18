@@ -28,7 +28,7 @@ color: #ffffff;
 }
 h4 { 
 margin-left: 5px;
-margin-bottom: 15px;  
+margin-bottom: 10px;  
 font-family: Verdana, sans-serif;
 }
 .right p {  
@@ -78,6 +78,6 @@ color: #ffffff;
 
 
 #footer p { 
-position: relative; 
+position: bottom; 
 padding-top: 15px;
 }
